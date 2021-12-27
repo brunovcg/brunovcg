@@ -17,8 +17,8 @@
   <img align="center" alt="Bruno-NodeJS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Bruno-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Bruno-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Bruno-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Bruno-AWS" height="40" width="40" src="https://user-images.githubusercontent.com/78083006/140585646-32e3c779-0a6e-4936-b45d-9480ef0b93eb.png">
+<!--   <img align="center" alt="Bruno-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Bruno-AWS" height="40" width="40" src="https://user-images.githubusercontent.com/78083006/140585646-32e3c779-0a6e-4936-b45d-9480ef0b93eb.png"> -->
   
 </div>
   
